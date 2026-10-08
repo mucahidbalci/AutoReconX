@@ -610,7 +610,7 @@ class AutoReconXMotoru:
             f"[bold red]⚔️ AUTO RECON X ULTRA PRO TÜRKÇE v4.1[/bold red]\n"
             f"[italic]Tüm Sistem Açıkları ve Zafiyetleri Taranan En Güçlü Platform[/italic]\n"
             f"v4.1 • KVKK Uyumlu • TR-CERT Entegrasyonlu • TÜBİTAK SGE Standartları\n"
-            f"roottechx (Erkan T.) Tarafından Hazırlanmıştır • MIT Lisansı",
+            f"roottechx (Mücahid Balcı) Tarafından Hazırlanmıştır • MIT Lisansı",
             border_style="red",
             padding=(1, 2)
         )
@@ -1484,7 +1484,7 @@ class AutoReconXMotoru:
                 {% endfor %}
                 <footer>
                     <p>AutoReconX ULTRA PRO TÜRKÇE v4.1 Tarafından Oluşturuldu • Etik Kullanım İçindir</p>
-                    <p>© {{ yil }} roottechx (Erkan T.) • MIT Lisansı • github.com/roottechxtr</p>
+                    <p>© {{ yil }} roottechx (Mücahid Balcı) • MIT Lisansı • github.com/roottechxtr</p>
                     <p style="color: var(--kritik); font-weight: bold;">Bu rapor hassas güvenlik bilgileri içerir. Kurumunuzun veri sınıflandırma politikasına göre saklanmalı ve paylaşılmalıdır.</p>
                     <p><strong>KVKK Uyarısı:</strong> Bu raporda yer alan kişisel veriler, 6698 sayılı KVKK kapsamında korunmakta olup, sadece yetkili merciler tarafından talep edilmesi durumunda yetkili mercilere teslim edilecektir.</p>
                 </footer>
